@@ -1,4 +1,4 @@
-/**** Added By: Priya ****/
+/**** Author: Priya ****/
 public class TriggerHandler_Account {
     public static void updateShippingAddress(List<Account> newList){
         for(Account thisAccount : newList){
